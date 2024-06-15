@@ -26,10 +26,17 @@ Desi Delicacies is a website dedicated to exploring the rich and diverse flavors
 
 ## Screenshots
 
+### Website Screenshots
 ![Screenshot 1](https://github.com/yashpawar6849/Microsoft-FRT-Intern/blob/main/Screenshot%20(611).png)
 ![Screenshot 2](https://github.com/yashpawar6849/Microsoft-FRT-Intern/blob/main/Screenshot%20(613).png))
 ![Screenshot 3](https://github.com/yashpawar6849/Microsoft-FRT-Intern/blob/main/Screenshot%20(614).png))
 ![Screenshot 4](https://github.com/yashpawar6849/Microsoft-FRT-Intern/blob/main/Screenshot%20(615).png))
+
+
+### Azure and Azure AI Services Screenshots
+![Azure Service Screenshot 1](https://github.com/yashpawar6849/Microsoft-FRT-Intern/blob/main/Screenshot%20(619).png)
+![Azure Service Screenshot 2](https://github.com/yashpawar6849/Microsoft-FRT-Intern/blob/main/Screenshot%20(620).png)
+![Azure Service Screenshot 3](https://github.com/yashpawar6849/Microsoft-FRT-Intern/blob/main/Screenshot%20(621).png)
 
 ---
 
@@ -47,14 +54,8 @@ Desi Delicacies is a website dedicated to exploring the rich and diverse flavors
 ## Installation
 
 1. Clone the repository:
-   \`\`\`
-   git clone https://github.com/yashpawar6849/Microsoft-FRT-Intern.git
-   \`\`\`
-2. Navigate to the project directory:
-   \`\`\`
-   cd Microsoft-FRT-Intern
-   \`\`\`
-3. Open \`index.html\` in your browser.
+2. Navigate to the project directory:https://github.com/yashpawar6849/Microsoft-FRT-Intern.git
+3. Open `index.html` in your browser.
 
 ---
 
@@ -72,9 +73,9 @@ Desi Delicacies is a website dedicated to exploring the rich and diverse flavors
 Contributions are welcome! To contribute to Desi Delicacies, follow these steps:
 
 1. Fork the repository.
-2. Create a new branch (\`git checkout -b feature/new-feature\`).
-3. Make modifications and commit changes (\`git commit -am 'Add new feature'\`).
-4. Push to the branch (\`git push origin feature/new-feature\`).
+2. Create a new branch (`git checkout -b feature/new-feature`).
+3. Make modifications and commit changes (`git commit -am 'Add new feature'`).
+4. Push to the branch (`git push origin feature/new-feature`).
 5. Submit a pull request.
 
 ---
@@ -102,3 +103,4 @@ Yash Pawar
 Project Link: [Desi Delicacies Repository](https://github.com/yashpawar6849/Microsoft-FRT-Intern)
 
 ---
+
