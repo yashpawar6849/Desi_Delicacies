@@ -32,14 +32,6 @@ Desi Delicacies is a website dedicated to exploring the rich and diverse flavors
 ![Screenshot 3](https://github.com/yashpawar6849/Microsoft-FRT-Intern/blob/main/Screenshot%20(614).png))
 ![Screenshot 4](https://github.com/yashpawar6849/Microsoft-FRT-Intern/blob/main/Screenshot%20(615).png))
 
-
-### Azure and Azure AI Services Screenshots
-![Azure Service Screenshot 1](https://github.com/yashpawar6849/Microsoft-FRT-Intern/blob/main/Screenshot%20(619).png)
-![Azure Service Screenshot 2](https://github.com/yashpawar6849/Microsoft-FRT-Intern/blob/main/Screenshot%20(620).png)
-![Azure Service Screenshot 3](https://github.com/yashpawar6849/Microsoft-FRT-Intern/blob/main/Screenshot%20(621).png)
-
----
-
 ## Technologies Used
 
 - HTML5
